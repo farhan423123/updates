@@ -8,3 +8,4 @@
 # added logocoming soon 
 # added logsbot
 # salary updated 
+# docklock fixed 
