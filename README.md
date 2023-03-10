@@ -10,3 +10,4 @@
 # salary updated 
 # docklock fixed 
 # fixed appartment
+# added eastcustom
