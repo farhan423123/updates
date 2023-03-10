@@ -5,3 +5,4 @@
 # qb-phone updated verion
 # added lumberjack
 # added custom hud
+# added logocoming soon 
