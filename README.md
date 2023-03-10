@@ -6,3 +6,4 @@
 # added lumberjack
 # added custom hud
 # added logocoming soon 
+# added logsbot
