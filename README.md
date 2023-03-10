@@ -12,4 +12,4 @@
 # fixed appartment
 # added eastcustom
 # FIXED CITYHALL LOCATION
-sd
+ # fixed drugs price
