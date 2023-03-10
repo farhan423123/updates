@@ -9,3 +9,4 @@
 # added logsbot
 # salary updated 
 # docklock fixed 
+# fixed appartment
