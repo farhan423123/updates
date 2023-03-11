@@ -13,3 +13,4 @@
 # added eastcustom
 # FIXED CITYHALL LOCATION
  # fixed drugs price
+# added polivce veh
